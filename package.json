@@ -5,6 +5,9 @@
   "repository": "git@github.com:gongora92/eslint-config-ale.git",
   "author": "Alejandro Gongora <alejandro@pacto.co>",
   "license": "MIT",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
   "peerDependencies": {
     "eslint": "^8.48.0",
     "eslint-plugin-vue": "^9.17.0",
